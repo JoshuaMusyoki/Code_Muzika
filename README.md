@@ -17,6 +17,9 @@ Our solution targets mostly people who don't have access to smart phone and use 
 
 We use Africa's Talking Simulator to showcase the user journey.
 
+
+# License
+
 MIT LICENSE 2023
 
 
